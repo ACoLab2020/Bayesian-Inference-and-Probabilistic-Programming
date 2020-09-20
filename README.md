@@ -1,1 +1,1 @@
-# Bayesian-Inference-and-Probabilistic-Programming
+# Statistics
